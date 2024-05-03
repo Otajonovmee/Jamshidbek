@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(38, 37, 45);
+}
+.container{
+    width: 1250px;
+}
+.wrap{
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-between;
+}   
+.content{
+    width: 40%;
+}
+.nav-link{
+    color: black;
+}
+.text{
+    color: white;
+}
